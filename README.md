@@ -7,16 +7,16 @@ Systems Engineer with 4 years of experience developing intuitive and visually ap
 
 ## 🛠️ Technologies & Tools
 ### Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,nextjs,jquery,md&perline=8)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,nextjs,jquery,md&perline=10)
 
 ### Styling & UI Libraries
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,emotion,styledcomponents,sass,less&perline=8)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,emotion,styledcomponents,sass,less&perline=10)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=firebase,postgres,mongodb,mysql,supabase&perline=8)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=firebase,postgres,mongodb,mysql,supabase&perline=10)
 
 ### Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bitbucket,gitlab,netlify,npm,postman,yarn&perline=8)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bitbucket,gitlab,netlify,npm,postman,yarn&perline=10)
 
 
 
